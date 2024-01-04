@@ -1,4 +1,3 @@
-#!/usr/bin/pythondef 
-copy_list(l):
+#!/usr/bin/pythondef
+def copy_list(l):
     return l[:]
-
